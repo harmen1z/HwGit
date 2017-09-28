@@ -1,1 +1,2 @@
 Hallo, dit is versie 1 van ramses3.txt
+Dit bestand is bewerkt om naar GitHub te pushen
